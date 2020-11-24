@@ -4,19 +4,17 @@ title: "Scientific Rmd Blogging"
 
 # Scientific Blogging with R Markdown
 
-Are you an R user who works in science? Would you like sharing more
+Are you an R user? Would you like sharing more
 online? How about starting a new blog, with R Markdown (Rmd)? 
 
 In this
-2-hour course with live coding, we'll go on three short adventures:
+2-hour course with live coding, we'll go on two short adventures:
 
 - setting up a scientific Rmd blog with the Distill framework and the
 distill package
 
 - setting up a scientific Rmd blog with the Hugo website generator and
-the hugodown package
-
-- adding Rmd posts to a Wordpress blog.
+the hugodown package (and discussing the blogdown package)
 
 We'll prepare for the adventures by defining what we expect of an Rmd blog.
 We'll end the course by reflecting on each adventure as well as
