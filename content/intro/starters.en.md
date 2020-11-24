@@ -3,7 +3,7 @@ title: Before blogging
 weight: 5
 ---
 
-* In this course I expect some familiarity with R Markdown. Only the basics, some of you discovered R Markdown _yesterday_!
+* In this course I expect some familiarity with R Markdown. Only the basics.
 
 * I use the usethis package a lot :robot: :sparkles:, and recommend doing so. Follow [usethis setup article](https://usethis.r-lib.org/articles/articles/usethis-setup.html) in particular [_"Use usethis or devtools in interactive work"_](https://usethis.r-lib.org/articles/articles/usethis-setup.html#use-usethis-or-devtools-in-interactive-work-1) and the Git/GitHub stuff.
 
