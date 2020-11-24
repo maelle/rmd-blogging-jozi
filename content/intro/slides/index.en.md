@@ -1,17 +1,17 @@
 ---
 outputs:
 - Reveal
-title: Scientific R Markdown blog?
+title: R Markdown blog?
 hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 348c660ed439e66c
+rmd_hash: 22ce31c00ec69455
 
 ---
 
-Scientific blogging with R Markdown
-===================================
+Blogging with R Markdown
+========================
 
 :wave: Welcome!
 
@@ -19,11 +19,17 @@ Scientific blogging with R Markdown
 
 I'm Maëlle, I like R, blogging and science.
 
+I am a proud R-Lady. :purple_heart:
+
 {{% fragment %}}
 
 :house: <a href="https://masalmon.eu" class="uri">https://masalmon.eu</a>
 
 {{% /fragment %}}
+
+------------------------------------------------------------------------
+
+{{< tweet 974336097865125888 >}}
 
 ------------------------------------------------------------------------
 
@@ -44,8 +50,8 @@ Teaching this course is an opportunity I got from blogging but blogging is not a
 
 ------------------------------------------------------------------------
 
-Why create blog?
-================
+Why create a blog?
+==================
 
 What if I don't really want to blog regularly?
 
@@ -56,6 +62,21 @@ What if I don't really want to blog regularly?
 
 <!--/html_preserve-->
 ---------------------
+
+Why create websites
+===================
+
+Personal website... But also
+
+-   course website
+
+-   event website
+
+-   etc.
+
+Useful skill!
+
+------------------------------------------------------------------------
 
 What is a website?
 ==================
@@ -78,8 +99,8 @@ Why Rmd for blogging?
 
 ------------------------------------------------------------------------
 
-WHAT is a scientific Rmd blog?
-==============================
+WHAT is a Rmd blog?
+===================
 
 ------------------------------------------------------------------------
 
@@ -114,7 +135,7 @@ Science part
 
 -   {{% fragment %}}Equations {{% /fragment %}}
 
--   {{% fragment %}}Content. Blog about science, or stuff relevant to science&co (e.g. comparisons of way to fit and present linear models in R).{{% /fragment %}}
+-   {{% fragment %}}Content. Blog about anything.{{% /fragment %}}
 
 ------------------------------------------------------------------------
 
@@ -123,11 +144,11 @@ Human part
 
 -   {{% fragment %}}Accessible. Alt text, contrast. Don't add gate-keeping to science.{{% /fragment %}}
 
--   {{% fragment %}}You OWN it. Content, URL (no commercial service, no employer).{{% /fragment %}}
+-   {{% fragment %}}You OWN it. Content, URL (if possible, no commercial service, no employer).{{% /fragment %}}
 
 -   {{% fragment %}}Allows for interactions (social media? commenting?){{% /fragment %}}
 
--   {{% fragment %}}Costs a few dollars a month at most.{{% /fragment %}}
+-   {{% fragment %}}Costs little to no money.{{% /fragment %}}
 
 ------------------------------------------------------------------------
 
@@ -137,8 +158,6 @@ Let's go
 -   {{% fragment %}}distill{{% /fragment %}}
 
 -   {{% fragment %}}Hugo&hugodown{{% /fragment %}}
-
--   {{% fragment %}}WordPress{{% /fragment %}}
 
 -   {{% fragment %}}Reproducibility{{% /fragment %}}
 
