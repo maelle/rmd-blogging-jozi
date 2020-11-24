@@ -1,7 +1,7 @@
-baseURL = "https://scientific-rmd-blogging.netlify.app/"
+baseURL = "https://rmd-blogging-jozi.netlify.app/"
 languageCode = "en-US"
 defaultContentLanguage = "en"
-title = "Scientific Rmd Blogging"
+title = "Blogging with R Markdown"
 enableEmoji = true
 pygmentsUseClasses=true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "index\\.html", '\.knit\.md$', '\.utf8\.md$']
@@ -30,7 +30,7 @@ languageName = "English"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
-url = "https://github.com/maelle/rmd-blogging-course"
+url = "https://github.com/maelle/rmd-blogging-jozi"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
@@ -49,8 +49,8 @@ url = "https://creativecommons.org/licenses/by/4.0/"
 weight = 40
 
 [params]
-  editURL = "https://github.com/maelle/rmd-blogging-course/edit/main/content/"
-  description = "Scientific Rmd Blogging"
+  editURL = "https://github.com/maelle/rmd-blogging-jozi/edit/main/content/"
+  description = "Blogging with R Markdown"
   author = "Maëlle Salmon"
   showVisitedLinks = true
   disableBreadcrumb = false
