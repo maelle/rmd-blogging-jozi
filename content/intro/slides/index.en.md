@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 44f3b45e21638c5e
+rmd_hash: 13b2550637295748
 
 ---
 
@@ -43,6 +43,10 @@ Why blog?
 -   Passion for sharing?
 
 -   Opportunities
+
+------------------------------------------------------------------------
+
+{{< tweet 1313179237487124486 >}}
 
 ------------------------------------------------------------------------
 

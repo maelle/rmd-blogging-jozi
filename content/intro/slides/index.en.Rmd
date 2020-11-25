@@ -43,6 +43,10 @@ I am a proud R-Lady. :purple_heart:
 
 ---
 
+`r hugodown::embed_tweet("1313179237487124486")`
+
+---
+
 Teaching this course is an opportunity I got from blogging but blogging is not a pyramid scheme :wink:
 
 ---
