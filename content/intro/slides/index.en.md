@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 22ce31c00ec69455
+rmd_hash: eb4d1154cb5682a4
 
 ---
 
@@ -142,7 +142,7 @@ Science part
 Human part
 ==========
 
--   {{% fragment %}}Accessible. Alt text, contrast. Don't add gate-keeping to science.{{% /fragment %}}
+-   {{% fragment %}}Accessible. Alt text, contrast.{{% /fragment %}}
 
 -   {{% fragment %}}You OWN it. Content, URL (if possible, no commercial service, no employer).{{% /fragment %}}
 

@@ -131,7 +131,7 @@ I'll list criteria so we have something to compare our adventures to.
 
 # Human part
 
-* {{% fragment %}}Accessible. Alt text, contrast. Don't add gate-keeping to science.{{% /fragment %}}
+* {{% fragment %}}Accessible. Alt text, contrast.{{% /fragment %}}
 
 * {{% fragment %}}You OWN it. Content, URL (if possible, no commercial service, no employer).{{% /fragment %}}
 
