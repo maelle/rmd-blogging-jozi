@@ -145,7 +145,7 @@ I'll list criteria so we have something to compare our adventures to.
 
 * {{% fragment %}}distill{{% /fragment %}}
 
-* {{% fragment %}}Hugo&hugodown{{% /fragment %}}
+* {{% fragment %}}Hugo&hugodown (&blogdown){{% /fragment %}}
 
 * {{% fragment %}}Reproducibility{{% /fragment %}}
 

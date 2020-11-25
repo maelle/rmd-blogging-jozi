@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: eb4d1154cb5682a4
+rmd_hash: 44f3b45e21638c5e
 
 ---
 
@@ -157,7 +157,7 @@ Let's go
 
 -   {{% fragment %}}distill{{% /fragment %}}
 
--   {{% fragment %}}Hugo&hugodown{{% /fragment %}}
+-   {{% fragment %}}Hugo&hugodown (&blogdown){{% /fragment %}}
 
 -   {{% fragment %}}Reproducibility{{% /fragment %}}
 
