@@ -1,6 +1,6 @@
 ---
 title: Jekyll
-weight: 5
+weight: 6
 ---
 
 Use [Jekyll](https://jekyllrb.com/) if you use Ruby a lot: this way you might like it, and not be scared 

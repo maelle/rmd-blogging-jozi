@@ -4,7 +4,7 @@ menuTitle: DIY
 weight: 100
 ---
 
-Now say that like my colleague Mark you like programming and find a website framework that you like.
+Now say that like my colleague [Mark Padgham](https://ropensci.org/about/#team) you like programming and find a website framework that you like.
 
 How about building your own site generator?
 
