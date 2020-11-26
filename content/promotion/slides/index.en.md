@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 215653ad9f567b4b
+rmd_hash: 8a6785c7ea015509
 
 ---
 
@@ -103,8 +103,6 @@ Citing your posts
 
 -   Hugo [custom layout](https://github.com/statnmap/hugo-statnmap-theme/blob/3e2a54a9836fdd65779865e91058ba304b628336/layouts/partials/citation.html)
 
--   [DOI](https://twitter.com/mfenner/status/1126523120591020032)?
-
 ------------------------------------------------------------------------
 
 Analytics
@@ -121,5 +119,5 @@ Analytics
 
 -   GDPR :wink:
 
--   Alternatives? [Fathom](https://usefathom.com/)? Others?
+-   Alternatives? Matomo Analytics, others?
 
