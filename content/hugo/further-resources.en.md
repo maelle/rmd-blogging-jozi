@@ -42,6 +42,8 @@ Collaborative website: even Hugo users might not know your website structure!
 
 ## Other Hugo themes :school_satchel:
 
+{{< tweet 1329502762376306692 >}}
+
 * Browse the [gallery](https://themes.gohugo.io/). [Choose your theme wisely](https://masalmon.eu/2020/02/29/hugo-maintenance/#choose-your-theme-wisely-and-keep-in-touch). Use Hugo docs to create new site. Follow [hugodown configuration docs](https://hugodown.r-lib.org/articles/config.html).
 
 * [Hire someone](/webdev/hire/)?
@@ -54,6 +56,8 @@ It might be better for your needs if you need something more complex than what h
 The comparison [hugodown vs blogdown](https://hugodown.r-lib.org/#compared-to-blogdown) is **outdated** as of blogdown new version.
 
 The [blogdown book](https://bookdown.org/yihui/blogdown/) will soon be updated. In the meantime read the package docs + its source code including its [changelog](https://github.com/rstudio/blogdown/blob/master/NEWS.md).
+
+Follow [RStudio blog](https://blog.rstudio.com/categories/r-markdown/).
 
 ## Hugo and CMS  :computer:
 
