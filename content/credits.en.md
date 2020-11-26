@@ -9,17 +9,17 @@ Thank you!
 
 The first version of this workshop is supported by the German Federal Ministry of Education and Research as part of [a series of 3 workshops on research data management](https://wiho-fdm.github.io/).
 
+## R Markdown experts
+
+* [Alison Hill](https://alison.rbind.io/) -- see for instance [her webinar with Desirée De Leon about "Sharing on Short Notice"](https://education.rstudio.com/blog/2020/04/sharing-on-short-notice/)
+* [Christophe Dervieux](https://twitter.com/chrisderv)
+
 ## Hugo experts
 
 Fellow Hugo fans, who taught me a lot via their public materials and useful convos!
 
-* [Alison Hill](https://alison.rbind.io/) -- see for instance [her webinar with Desirée De Leon about "Sharing on Short Notice"](https://education.rstudio.com/blog/2020/04/sharing-on-short-notice/)
 * [Steph Locke](https://twitter.com/TheStephLocke)
 * [Lukas Burk](https://blog.jemu.name/)
-
-## Wordpress expert
-
-* [Sébastien Rochette](https://statnmap.com/) who answered [Wordpress questions](https://twitter.com/ma_salmon/status/1263448146610438145) and actually also helped me with Hugo, directly, and [indirectly](https://github.com/matcornic/hugo-theme-learn/issues/187#issuecomment-461173989).
 
 ## Tooling
 
