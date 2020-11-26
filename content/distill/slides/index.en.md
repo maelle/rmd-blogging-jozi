@@ -7,7 +7,7 @@ layout: list
 weight: 1
 output: hugodown::md_document
 countdown: true
-rmd_hash: d67a315c90a2ccbc
+rmd_hash: 4abbe659ffb07bd5
 
 ---
 
@@ -113,7 +113,7 @@ Further resources
 Questions, comments?
 ====================
 
-Write them in the pad!
+Write them in the chat!
 
 ------------------------------------------------------------------------
 

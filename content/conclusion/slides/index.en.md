@@ -6,12 +6,12 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: b777bbe39c9e64c8
+rmd_hash: 3cfa03b05039178b
 
 ---
 
-Scientific blogging with R Markdown
-===================================
+Blogging with R Markdown
+========================
 
 :sob: Nearly time to say goodbye!
 
@@ -19,9 +19,9 @@ Scientific blogging with R Markdown
 
 -   distill: perfect, not flexible
 
--   Hugo&hugodown: very flexible (too flexible?), changes fast, experimental R package
+-   Hugo&hugodown: very flexible (too flexible?), changes fast, minimal&experimental R package
 
--   WordPress&goodpress: also flexible, even more experimental R package
+-   Hugo&blogdown: very flexible (too flexible?), changes fast, more complete R package but outdate docs at the moment
 
 ------------------------------------------------------------------------
 
@@ -30,9 +30,7 @@ What to choose
 
 -   distill
 
--   Hugo Academic with [`hugodown::create_site_academic()`](https://rdrr.io/pkg/hugodown/man/create_site_academic.html)
-
--   WordPress if you already use WordPress?
+-   A Hugo theme built-in in hugodown or that you'd tweak following hugodown docs.
 
 ------------------------------------------------------------------------
 
@@ -94,8 +92,6 @@ Only write if you enjoy it! Your blog can be a portfolio/news board only.
 
 Tell me
 =======
-
--   Questions this afternoon :raising_hand:
 
 -   Issues in the [website repo](https://github.com/maelle/rmd-blogging-course/issues) for questions :raising_hand:
 
