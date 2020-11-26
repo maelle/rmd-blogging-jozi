@@ -11,7 +11,7 @@ countdown: true
 
 # Hugo and hugodown
 
-A powerful static generator, a handy WIP package
+A powerful static generator, a handy WIP minimal package
 
 ---
 
@@ -31,7 +31,7 @@ Only an .exe to install :tada:
 
 * Handy helpers
 
-Experimental but the best bet in my opinion.
+Experimental but easier to start with in my opinion.
 
 ---
 
@@ -144,9 +144,31 @@ Used for [tidyverse.org](https://tidyverse.org), in particular.
 
 # Limitations?
 
-* hugodown is a WIP package. One easy to use theme only at the moment, but a great one!
+* hugodown is a WIP minimal package.
+
+* the function I demo-ed is in my fork, see the main project for existing theme.
 
 * Hugo changes a lot (but hugodown helps protect your projects from that)
+
+---
+
+# What about blogdown?!
+
+It recently got updated so it can work like hugodown (no automatic knitting, pfiew).
+
+Many features! E.g. build.R and build2.R
+
+The blogdown book will be updated soon
+
+---
+
+# So blogdown or hugodown
+
+* Start with hugodown, minimal and less docs to read.
+
+* Follow the RStudio blog to know about blogdown updates.
+
+* Switch to blogdown if you need a more custom workflow?
 
 ---
 
@@ -158,7 +180,7 @@ Used for [tidyverse.org](https://tidyverse.org), in particular.
 
 # Questions, comments?
 
-Write them in the pad!
+Write them in the chat!
 
 ---
 

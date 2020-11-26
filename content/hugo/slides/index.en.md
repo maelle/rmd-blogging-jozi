@@ -7,14 +7,14 @@ layout: list
 weight: 1
 output: hugodown::md_document
 countdown: true
-rmd_hash: 81064851377395ba
+rmd_hash: 293d90f4a1a8cc3a
 
 ---
 
 Hugo and hugodown
 =================
 
-A powerful static generator, a handy WIP package
+A powerful static generator, a handy WIP minimal package
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Only an .exe to install :tada:
 
 -   Handy helpers
 
-Experimental but the best bet in my opinion.
+Experimental but easier to start with in my opinion.
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,8 @@ downlit syntax highlighting :smiley:
 
 <div class="highlight">
 
-<pre class='chroma'><code class='language-r' data-lang='r'><span class='k'>ggplot2</span>::<span class='nf'><a href='https://ggplot2.tidyverse.org/reference/ggplot.html'>ggplot</a></span>()</code></pre>
+<pre class='chroma'><code class='language-r' data-lang='r'><span class='nf'>ggplot2</span><span class='nf'>::</span><span class='nf'><a href='https://ggplot2.tidyverse.org/reference/ggplot.html'>ggplot</a></span><span class='o'>(</span><span class='o'>)</span>
+</code></pre>
 
 </div>
 
@@ -141,9 +142,33 @@ Used for [tidyverse.org](https://tidyverse.org), in particular.
 Limitations?
 ============
 
--   hugodown is a WIP package. One easy to use theme only at the moment, but a great one!
+-   hugodown is a WIP minimal package.
+
+-   the function I demo-ed is in my fork, see the main project for existing theme.
 
 -   Hugo changes a lot (but hugodown helps protect your projects from that)
+
+------------------------------------------------------------------------
+
+What about blogdown?!
+=====================
+
+It recently got updated so it can work like hugodown (no automatic knitting, pfiew).
+
+Many features! E.g. build.R and build2.R
+
+The blogdown book will be updated soon
+
+------------------------------------------------------------------------
+
+So blogdown or hugodown
+=======================
+
+-   Start with hugodown, minimal and less docs to read.
+
+-   Follow the RStudio blog to know about blogdown updates.
+
+-   Switch to blogdown if you need a more custom workflow?
 
 ------------------------------------------------------------------------
 
@@ -157,7 +182,7 @@ Further resources
 Questions, comments?
 ====================
 
-Write them in the pad!
+Write them in the chat!
 
 ------------------------------------------------------------------------
 
