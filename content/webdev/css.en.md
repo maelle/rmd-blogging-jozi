@@ -17,3 +17,5 @@ More seriously, I'm linking to good resources I have clearly not explored enough
 
 {{< tweet 1245391028795965442 >}}
 
+* (not free) [Zine "Hell Yes! CSS!" by Julia Evans](https://jvns.ca/blog/2020/11/22/new-zine--hell-yes--css-/)
+
