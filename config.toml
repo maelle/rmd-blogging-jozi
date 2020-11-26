@@ -23,7 +23,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "Scientific Rmd Blogging"
+title = "Blogging with R Markdown"
 weight = 1
 languageName = "English"
 
