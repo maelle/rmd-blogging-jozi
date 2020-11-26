@@ -16,12 +16,13 @@ If you start using distill for your website...
 
 * [Watch development on GitHub](https://help.github.com/en/github/managing-subscriptions-and-notifications-on-github/viewing-your-subscriptions#configuring-your-watch-settings-for-an-individual-repository)?
 
-* Subscribe to the [issues](https://github.com/rstudio/distill/issues) that are interesting to you: [search](https://github.com/rstudio/distill/issues/9), [ORCID](https://github.com/rstudio/distill/issues/21), etc.?
+* Subscribe to the [issues](https://github.com/rstudio/distill/issues) that are interesting to you.
 
 ## Websites for inspiration :sparkles:
 
 | Website | Source |
 |---|---|
+|[Teaching in Production](https://rstudio-education.github.io/teaching-in-production/)|[<i class='fab fa-fw fa-github'>](https://github.com/rstudio-education/teaching-in-production)|
 |[Scholarly Communication Analytics](https://subugoe.github.io/scholcomm_analytics/)| [<i class='fab fa-fw fa-github'>](https://github.com/subugoe/scholcomm_analytics) |
 | [RStudio AI Blog](https://blogs.rstudio.com/ai/) | [<i class='fab fa-fw fa-github'>](https://github.com/rstudio/ai-blog) |
 | [The Mockup Blog by Tom Mock](https://themockup.blog/) | [<i class='fab fa-fw fa-github'>](https://github.com/jthomasmock/radix_themockup) |
@@ -39,8 +40,10 @@ If you start using distill for your website...
 
 > A word of warning though: Distill (the original library upon which the R package is based) is strongly opinionated about CSS and sometimes it's tricky or impossible to change things. Just to say your mileage may vary and if there is something you can't quite get right there is not likely much we can do about it -- *JJ Allaire [in a GitHub issue](https://github.com/rstudio/distill/issues/100#issuecomment-508075573)*.
 
+However, follow the docs about [theming distill websites](https://rstudio.github.io/distill/website.html#theming).
+
 {{% notice tip %}}
-If you liked distill's looks but would like further customization, and if you like Hugo that we'll present in the next section, check out [this Distill theme for Hugo](https://github.com/activatedgeek/distillpub).
+If you liked distill's looks but would like further customization, and if you like Hugo that we'll present in the next section, check out [this Distill theme for Hugo](https://github.com/activatedgeek/distillpub) or try and create your own port! :nerd_face:
 {{% /notice %}}
 
 ## Where to get help? :wave:
