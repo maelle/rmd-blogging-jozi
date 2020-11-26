@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 13b2550637295748
+rmd_hash: 64d6630e22791164
 
 ---
 
@@ -130,8 +130,8 @@ Tech part
 <!--/html_preserve-->
 ---------------------
 
-Science part
-============
+(Data) Science part
+===================
 
 -   {{% fragment %}}References from a .bib file{{% /fragment %}}
 
@@ -174,5 +174,5 @@ Let's go
 We'll start with a tour of the course website
 =============================================
 
-<a href="https://tiny.cc/rmd-blog" class="uri">https://tiny.cc/rmd-blog</a>
+<a href="https://tiny.cc/rmd-blogging-jozi" class="uri">https://tiny.cc/rmd-blogging-jozi</a>
 

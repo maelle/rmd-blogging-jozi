@@ -121,7 +121,7 @@ I'll list criteria so we have something to compare our adventures to.
 <!--/html_preserve-->
 ---
 
-# Science part
+# (Data) Science part
 
 * {{% fragment %}}References from a .bib file{{% /fragment %}}
 
@@ -161,4 +161,4 @@ I'll list criteria so we have something to compare our adventures to.
 
 # We'll start with a tour of the course website
 
-https://tiny.cc/rmd-blog
+https://tiny.cc/rmd-blogging-jozi
