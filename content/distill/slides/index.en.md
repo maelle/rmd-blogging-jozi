@@ -7,7 +7,7 @@ layout: list
 weight: 1
 output: hugodown::md_document
 countdown: true
-rmd_hash: f958a4a6947e9d10
+rmd_hash: d67a315c90a2ccbc
 
 ---
 
@@ -84,7 +84,7 @@ Created by:
 
 <div class="highlight">
 
-JJ Allaire \[aut, cre\], Rich Iannone \[aut\], Yihui Xie \[aut\]
+JJ Allaire ), Rich Iannone \[aut\], Alison Presmanes Hill \[aut\] (), Yihui Xie \[aut\] ()
 
 </div>
 
@@ -99,9 +99,7 @@ Limitations?
 
 -   Content stored as html (harder to migrate?)
 
--   Limited possibilities for customization (blessing in disguise?)
-
--   Some open issues (ORCID support, RSS feed tweaking) but active development
+-   Limited possibilities for customization (blessing in disguise?) but awesome docs about theming!
 
 ------------------------------------------------------------------------
 

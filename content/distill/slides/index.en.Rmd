@@ -103,9 +103,7 @@ Active development.
 
 * Content stored as html (harder to migrate?)
 
-* Limited possibilities for customization (blessing in disguise?)
-
-* Some open issues (ORCID support, RSS feed tweaking) but active development
+* Limited possibilities for customization (blessing in disguise?) but awesome docs about theming!
 
 ---
 
