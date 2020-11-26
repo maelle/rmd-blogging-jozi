@@ -44,11 +44,13 @@ output: hugodown::md_document
 
 - put website online via Netlify drag and drop.
 
-- add base_url to site config, show citations metadata is added.
+- add `base_url` to site config, show citations metadata is added.
 
 - Netlify drag and drop.
 
-- Some minimal styling. Introduce the web developer console.
+- `distill::create_theme(name = "theme")`.
+
+- other minimal style tweaks (link aspect). Introduce the web developer console.
 
 - Netlify drag and drop
 

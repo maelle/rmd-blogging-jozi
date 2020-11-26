@@ -4,7 +4,7 @@ menuTitle: Demo
 weight: 5
 slides: true
 output: hugodown::md_document
-rmd_hash: 56c6444412ac02ba
+rmd_hash: dca2798c69dc7335
 
 ---
 
@@ -46,11 +46,13 @@ rmd_hash: 56c6444412ac02ba
 
 -   put website online via Netlify drag and drop.
 
--   add base\_url to site config, show citations metadata is added.
+-   add `base_url` to site config, show citations metadata is added.
 
 -   Netlify drag and drop.
 
--   Some minimal styling. Introduce the web developer console.
+-   [`distill::create_theme(name = "theme")`](https://rdrr.io/pkg/distill/man/create_theme.html).
+
+-   other minimal style tweaks (link aspect). Introduce the web developer console.
 
 -   Netlify drag and drop
 
