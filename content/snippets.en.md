@@ -1601,3 +1601,16 @@ hist(rnorm(10000))
 
 
 ````
+
+## Twitter metadata
+
+```html
+{{ template "_internal/twitter_cards.html" . }}
+```
+
+```yaml
+params:
+  description: Text about my cool site
+  images:
+  - https://github.com/maelle.png
+```
