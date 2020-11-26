@@ -20,6 +20,8 @@ If you start using Hugo & hugodown for your website...
 
 * Subscribe to the [hugodown issues](https://github.com/r-lib/hugodown/issues) that are interesting to you?
 
+* Also keep an eye on what's happening for [blogdown](#another-r-package-blogdown-)!
+
 ## Contributing guide for your website :pencil:
 
 Personal website: take notes to not forget what you tweaked, etc.
@@ -38,33 +40,20 @@ Collaborative website: even Hugo users might not know your website structure!
 
 * If you start tweaking Hugo templates, [Hugo forum](https://discourse.gohugo.io/)
 
-
-## Hugo Academic :mortar_board:
-
-Hugo Academic has [excellent docs](https://sourcethemes.com/academic/docs/).
-
-You can build many different websites with Hugo Academic, see a few examples below.
-The theme is very versatile, and widely used in the R community.
-
-| Website | Source |
-|---|---|
-|[Yanina Bellini Saibene's personal website](https://yabellini.netlify.app/)| [<i class='fab fa-fw fa-github'>](https://github.com/yabellini/SitioAcademico) |
-|[Metadocencia website](https://www.metadocencia.org/)| [<i class='fab fa-fw fa-github'>](https://github.com/MetaDocencia/SitioWeb) |
-|[Personal website of Alison Presmanes Hill ](https://alison.rbind.io/)| [<i class='fab fa-fw fa-github'>](https://github.com/rbind/apreshill) |
-|["Communicating with R Markdown" workshop by Alison Hill](https://ysc-rmarkdown.netlify.app/)| [<i class='fab fa-fw fa-github'>](https://github.com/rstudio-education/communicate-rmd-workshop) |
-
-
-There's a [Python CLI to import your publications](https://github.com/sourcethemes/academic-admin), featured in [the blog post "Fixing Imports to Hugo"](https://dyerlab.org/post/fixing-imports-to-hugo/)
-
 ## Other Hugo themes :school_satchel:
 
-* Browse the [gallery](https://themes.gohugo.io/). [Choose your theme wisely](https://masalmon.eu/2020/02/29/hugo-maintenance/#choose-your-theme-wisely-and-keep-in-touch). Use Hugo docs to create new site.
+* Browse the [gallery](https://themes.gohugo.io/). [Choose your theme wisely](https://masalmon.eu/2020/02/29/hugo-maintenance/#choose-your-theme-wisely-and-keep-in-touch). Use Hugo docs to create new site. Follow [hugodown configuration docs](https://hugodown.r-lib.org/articles/config.html).
 
 * [Hire someone](/webdev/hire/)?
 
 ## Another R package: blogdown :package:
 
-[blogdown](https://bookdown.org/yihui/blogdown/) is an alternative to hugodown. [hugodown vs blogdown](https://hugodown.r-lib.org/#compared-to-blogdown)
+[blogdown](https://github.com/rstudio/blogdown) is an alternative to hugodown. 
+It might be better for your needs if you need something more complex than what hugodown provides: e.g. there are two special scripts build.R and build2.R for running arbitrary code before and after building your website.
+
+The comparison [hugodown vs blogdown](https://hugodown.r-lib.org/#compared-to-blogdown) is **outdated** as of blogdown new version.
+
+The [blogdown book](https://bookdown.org/yihui/blogdown/) will soon be updated. In the meantime read the package docs + its source code including its [changelog](https://github.com/rstudio/blogdown/blob/master/NEWS.md).
 
 ## Hugo and CMS  :computer:
 
@@ -96,3 +85,4 @@ To give a less technical interface to a Hugo website, you could use a CMS, see f
 
 * [Tim Mastny's "Intro to Hugo: The Masterchef of Layouts"](https://timmastny.rbind.io/blog/intro-hugo-blogdown-chef/)
 
+* [Zachary Betz's "Make a Hugo blog from scratch"](https://zwbetz.com/make-a-hugo-blog-from-scratch/)
