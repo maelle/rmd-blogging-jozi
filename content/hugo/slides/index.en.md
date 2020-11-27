@@ -7,7 +7,7 @@ layout: list
 weight: 1
 output: hugodown::md_document
 countdown: true
-rmd_hash: 293d90f4a1a8cc3a
+rmd_hash: 43b88df686949924
 
 ---
 
@@ -153,7 +153,7 @@ Limitations?
 What about blogdown?!
 =====================
 
-It recently got updated so it can work like hugodown (no automatic knitting, pfiew).
+It recently got updated so it can work like hugodown (no old post building, pfiew).
 
 Many features! E.g. build.R and build2.R
 

@@ -154,7 +154,7 @@ Used for [tidyverse.org](https://tidyverse.org), in particular.
 
 # What about blogdown?!
 
-It recently got updated so it can work like hugodown (no automatic knitting, pfiew).
+It recently got updated so it can work like hugodown (no old post building, pfiew).
 
 Many features! E.g. build.R and build2.R
 
