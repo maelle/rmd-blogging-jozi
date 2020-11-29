@@ -72,6 +72,16 @@ Make efforts but don't be perfectionist.
 
 ---
 
+# A word of caution
+
+What if you enjoy setup too much?
+
+---
+
+`r hugodown::embed_tweet("1332830570729058313")`
+
+---
+
 # Regular blogging?
 
 No you don't have to unless you call your blog "the daily blog" or so. :wink:
@@ -82,6 +92,6 @@ Only write if you enjoy it! Your blog can be a portfolio/news board only.
 
 # Tell me
 
-* Issues in the [website repo](https://github.com/maelle/rmd-blogging-course/issues) for questions  :raising_hand:
+* Issues in the [website repo](https://github.com/maelle/rmd-blogging-jozi/issues) for questions  :raising_hand:
 
 * [Tweets](https://twitter.com/ma_salmon)/emails to show me your websites. :star:

@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 3cfa03b05039178b
+rmd_hash: 1db4cb10c205050e
 
 ---
 
@@ -81,6 +81,17 @@ Setup is not fun
 
 ------------------------------------------------------------------------
 
+A word of caution
+=================
+
+What if you enjoy setup too much?
+
+------------------------------------------------------------------------
+
+{{< tweet 1332830570729058313 >}}
+
+------------------------------------------------------------------------
+
 Regular blogging?
 =================
 
@@ -93,7 +104,7 @@ Only write if you enjoy it! Your blog can be a portfolio/news board only.
 Tell me
 =======
 
--   Issues in the [website repo](https://github.com/maelle/rmd-blogging-course/issues) for questions :raising_hand:
+-   Issues in the [website repo](https://github.com/maelle/rmd-blogging-jozi/issues) for questions :raising_hand:
 
 -   [Tweets](https://twitter.com/ma_salmon)/emails to show me your websites. :star:
 
