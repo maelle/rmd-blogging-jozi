@@ -7,7 +7,7 @@ layout: list
 weight: 1
 output: hugodown::md_document
 countdown: true
-rmd_hash: 43b88df686949924
+rmd_hash: 6b1814a65f6c9f0a
 
 ---
 
@@ -168,7 +168,7 @@ So blogdown or hugodown
 
 -   Follow the RStudio blog to know about blogdown updates.
 
--   Switch to blogdown if you need a more custom workflow?
+-   Switch to blogdown if you need a more custom workflow? Or after its book update?
 
 ------------------------------------------------------------------------
 

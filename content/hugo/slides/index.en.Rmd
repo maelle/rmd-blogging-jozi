@@ -168,7 +168,7 @@ The blogdown book will be updated soon
 
 * Follow the RStudio blog to know about blogdown updates.
 
-* Switch to blogdown if you need a more custom workflow?
+* Switch to blogdown if you need a more custom workflow? Or after its book update?
 
 ---
 
