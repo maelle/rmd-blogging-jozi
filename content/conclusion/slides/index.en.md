@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 1db4cb10c205050e
+rmd_hash: 69091df08c74d3b4
 
 ---
 
@@ -21,7 +21,7 @@ Blogging with R Markdown
 
 -   Hugo&hugodown: very flexible (too flexible?), changes fast, minimal&experimental R package
 
--   Hugo&blogdown: very flexible (too flexible?), changes fast, more complete R package but outdate docs at the moment
+-   Hugo&blogdown: very flexible (too flexible?), changes fast, more complete R package but outdated docs at the moment
 
 ------------------------------------------------------------------------
 

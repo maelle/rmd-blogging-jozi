@@ -18,7 +18,7 @@ output: hugodown::md_document
 
 * Hugo&hugodown: very flexible (too flexible?), changes fast, minimal&experimental R package
 
-* Hugo&blogdown: very flexible (too flexible?), changes fast, more complete R package but outdate docs at the moment
+* Hugo&blogdown: very flexible (too flexible?), changes fast, more complete R package but outdated docs at the moment
 
 ---
 
