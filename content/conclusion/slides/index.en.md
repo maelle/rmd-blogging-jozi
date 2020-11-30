@@ -6,7 +6,7 @@ hidden: true
 layout: list
 weight: 1
 output: hugodown::md_document
-rmd_hash: 69091df08c74d3b4
+rmd_hash: f02d52421c8ae125
 
 ---
 
@@ -98,6 +98,15 @@ Regular blogging?
 No you don't have to unless you call your blog "the daily blog" or so. :wink:
 
 Only write if you enjoy it! Your blog can be a portfolio/news board only.
+
+------------------------------------------------------------------------
+
+Thank you!
+==========
+
+:pray: Y'all for joining!
+
+:pray: R-Ladies Johannesburg, in particular Vebashini Naidoo, for organizing!
 
 ------------------------------------------------------------------------
 

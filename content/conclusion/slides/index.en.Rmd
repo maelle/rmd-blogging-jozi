@@ -90,6 +90,14 @@ Only write if you enjoy it! Your blog can be a portfolio/news board only.
 
 ---
 
+# Thank you!
+
+:pray: Y'all for joining!
+
+:pray: R-Ladies Johannesburg, in particular Vebashini Naidoo, for organizing!
+
+---
+
 # Tell me
 
 * Issues in the [website repo](https://github.com/maelle/rmd-blogging-jozi/issues) for questions  :raising_hand:
